@@ -1,1 +1,2 @@
-Shell permissions
+#!/bin/bash
+script fo i am betty
